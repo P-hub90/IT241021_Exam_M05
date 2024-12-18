@@ -4,6 +4,10 @@
                     
                       2. Did you changed some file settings for Microsoft Excel?
 
+                      3. Have you formatted the cell as text?
+
+                
+
 
 **The website which I looked for are:**
 
