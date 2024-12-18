@@ -1,6 +1,7 @@
 **Common excel troubleshooting techniques:**  Before attempting to resolve any issue it is imperative to find its root cause. With respect to this case, for example, if the problem lies within a faulty formula or file format, you can use the appropriate manual fix to resolve the problem.
  - You can move or copy your data to a new workbook.
  - "MS Excel Open and Repair" Utility : It is a fastest way to repair a corrupt Excel.
+ - 
 
 
 **Few sites with basic Excel spreadsheet troubleshooting:**
