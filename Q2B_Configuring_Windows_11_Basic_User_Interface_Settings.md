@@ -7,5 +7,7 @@ The simple and powerful interface in Windows 11 feature rounded geometry and a r
  **Set the interface to dark mode:**
 
  Start -> Settings -> Personalization -> Colors -> Choose your mode -> Dark
- 
+
+ ![image](https://github.com/user-attachments/assets/f1f3a81d-56f0-4432-a892-7d1e7f6f835c)
+
 The website which I looked for is: https://www.microsoft.com/en-us/windows/learning-center/when-to-use-dark-mode
