@@ -4,6 +4,12 @@ The simple and powerful interface in Windows 11 feature rounded geometry and a r
 
  I found a best article which tells much more about the intuitive features of Windows 11 user interface: https://www.sirkit.ca/welcome-to-windows-11-simple-powerful/
 
+ **Windows settings:**
+
+ It allows users to adjust their user preferences, configure their operating system, and manage their connected devices.
+ 
+ Here is an informative article on Windows settings: https://en.wikipedia.org/wiki/Settings_(Windows)
+
  **Set the interface to dark mode:**
 
  Start -> Settings -> Personalization -> Colors -> Choose your mode -> Dark
