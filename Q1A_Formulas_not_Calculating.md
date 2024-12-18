@@ -6,6 +6,8 @@
 
                       3. Have you formatted the cell as text?
 
+                      4. Did you turned on the Show Formula mode?
+
                 
 
 
